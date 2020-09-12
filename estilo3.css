@@ -1,0 +1,31 @@
+*{
+	margin: 4;
+	padding: 4;
+	box-sizing: border-box;
+	background-color:	#0fc000;
+}
+
+.menu4 > li{
+	/*position: relative;*/
+	display: inline-block;
+}
+
+.menu4 > li> a{
+	display: block;
+	padding: 15px 20px;
+	color: #353535;
+	font-family: ´open sans´;
+	text-decoration: none;
+}
+.menu4 li a:hover{
+	color: #ce7d35;
+	transition: all .3s;
+}
+.menu4{
+	background-color:	#6cbe3c;
+	padding: 5px;
+	border-radius: 20px;
+	font-weight: bold;
+
+
+}
